@@ -1,0 +1,166 @@
+D:\Workspace\C#\RigolTest\RigolTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Workspace\C#\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+D:\Workspace\C#\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+D:\Workspace\C#\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+D:\Workspace\C#\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+D:\Workspace\C#\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+D:\Workspace\C#\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+D:\Workspace\C#\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+C:\Users\michaelbj\Downloads\Demo_C_Sharp\C#\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+C:\Users\michaelbj\Downloads\Demo_C_Sharp\C#\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+C:\Users\michaelbj\Downloads\Demo_C_Sharp\C#\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+C:\Users\michaelbj\Downloads\Demo_C_Sharp\C#\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+C:\Users\michaelbj\Downloads\Demo_C_Sharp\C#\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+C:\Users\michaelbj\Downloads\Demo_C_Sharp\C#\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+C:\Users\michaelbj\Downloads\Demo_C_Sharp\C#\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\michaelbj\Downloads\Demo_C_Sharp\C#\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+C:\Users\michaelbj\Downloads\Demo_C_Sharp\C#\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+C:\Users\michaelbj\Downloads\Demo_C_Sharp\C#\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.CoreCompileInputs.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+C:\Users\michaelbj\Downloads\RigolTest1\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+C:\Users\michaelbj\Downloads\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+C:\Users\michaelbj\Downloads\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+C:\Users\michaelbj\Downloads\RigolTest1\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+C:\Users\michaelbj\Downloads\RigolTest1\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+C:\Users\michaelbj\Downloads\RigolTest1\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+C:\Users\michaelbj\Downloads\RigolTest1\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\michaelbj\Downloads\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+C:\Users\michaelbj\Downloads\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+C:\Users\michaelbj\Downloads\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+D:\工程\RigolTest1\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+D:\工程\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+D:\工程\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+D:\工程\RigolTest1\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+D:\工程\RigolTest1\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+D:\工程\RigolTest1\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+D:\工程\RigolTest1\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+D:\工程\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+D:\工程\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+D:\工程\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+D:\工程\RigolTest1\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form2.resources
+C:\Users\asus\Desktop\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+C:\Users\asus\Desktop\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form2.resources
+C:\Users\asus\Desktop\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+C:\Users\asus\Desktop\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+C:\Users\asus\Desktop\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+C:\Users\asus\Desktop\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+C:\Users\asus\Desktop\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+C:\Users\asus\Desktop\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+C:\Users\asus\Desktop\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+D:\RigolTest1010\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+D:\RigolTest1010\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+D:\RigolTest1010\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+D:\RigolTest1010\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+D:\RigolTest1010\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+D:\RigolTest1010\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+D:\RigolTest1010\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+D:\RigolTest1010\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+D:\RigolTest1010\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.ResolveComReference.cache
+D:\RigolTest1010\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+D:\RigolTest1010\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form2.resources
+D:\RigolTest1010\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form3.resources
+D:\RigolTest1010\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+D:\RigolTest1017\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+D:\RigolTest1017\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.ResolveComReference.cache
+D:\RigolTest1017\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+D:\RigolTest1017\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+D:\RigolTest1017\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+D:\RigolTest1017\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+D:\RigolTest1017\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+D:\RigolTest1017\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+D:\RigolTest1017\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+D:\RigolTest1017\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+D:\RigolTest1017\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form2.resources
+D:\RigolTest1017\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form3.resources
+D:\RigolTest1017\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.ResolveComReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form2.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form3.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.CoreCompileInputs.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1024\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.ResolveComReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form2.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form3.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.CoreCompileInputs.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1109\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\bin\Debug\RigolTest.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\bin\Debug\RigolTest.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.ResolveComReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form2.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form3.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.CoreCompileInputs.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+C:\Users\michaelbj\Documents\Tencent Files\309549727\FileRecv\RigolTest1114\RigolTest1114\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+C:\Users\michaelbj\Documents\Tencent Files\309549727\FileRecv\RigolTest1114\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.ResolveComReference.cache
+C:\Users\michaelbj\Documents\Tencent Files\309549727\FileRecv\RigolTest1114\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+C:\Users\michaelbj\Documents\Tencent Files\309549727\FileRecv\RigolTest1114\RigolTest1114\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+D:\RigolTest1121\RigolTest\RigolTest\bin\Debug\RigolTest.exe.config
+D:\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.ResolveComReference.cache
+D:\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\RigolTest.exe
+D:\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\RigolTest.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.ResolveComReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form2.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form3.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.CoreCompileInputs.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\bin\Debug\BeihangDianQi.exe.config
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\bin\Debug\BeihangDianQi.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\bin\Debug\BeihangDianQi.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\BeihangDianQi.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Debug\BeihangDianQi.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\bin\Debug\BeihangDianQi.exe.config
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\bin\Debug\BeihangDianQi.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\bin\Debug\BeihangDianQi.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\bin\Debug\NationalInstruments.Common.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\bin\Debug\NationalInstruments.VisaNS.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csprojResolveAssemblyReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.ResolveComReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form1.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form2.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\obj\x86\Debug\RigolTest.Form3.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.GenerateResource.Cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\obj\x86\Debug\RigolTest.csproj.CoreCompileInputs.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\obj\x86\Debug\BeihangDianQi.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1125\RigolTest\RigolTest\obj\x86\Debug\BeihangDianQi.pdb

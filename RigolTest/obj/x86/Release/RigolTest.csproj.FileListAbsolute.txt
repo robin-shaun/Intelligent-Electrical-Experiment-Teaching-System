@@ -1,0 +1,15 @@
+D:\工程\RigolTest1\RigolTest\RigolTest\bin\Release\RigolTest.exe.config
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\bin\Release\NationalInstruments.Common.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\bin\Release\NationalInstruments.VisaNS.dll
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Release\RigolTest.csprojResolveAssemblyReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Release\RigolTest.csproj.ResolveComReference.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Release\RigolTest.Form1.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Release\RigolTest.Form2.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Release\RigolTest.Form3.resources
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Release\RigolTest.csproj.GenerateResource.Cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Release\RigolTest.csproj.CoreCompileInputs.cache
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\bin\Release\BeihangDianqi.exe.config
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\bin\Release\BeihangDianqi.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\bin\Release\BeihangDianqi.pdb
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Release\BeihangDianqi.exe
+E:\Study\Electronic Experiment\示波器远程控制\RigolTest1121\RigolTest\RigolTest\obj\x86\Release\BeihangDianqi.pdb
